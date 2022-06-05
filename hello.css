@@ -1,0 +1,41 @@
+body{
+    /* background-color: skyblue; */
+    background-image: url(assests/pash.jpg);
+    /* background-position: center; */
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+}
+div{
+margin-top: 100px;
+margin-left: 500px;
+/* background-color: yellow; */
+width: 700px;
+}
+.input{
+    display: block;
+    width: 60%;
+    height: 20px;
+    /* height: 40%; */
+    /* height: 10px; */
+/* margin-top: 10px;
+margin-bottom: 5px; */
+margin: 10px;
+box-sizing: border-box;
+border: none;
+border-bottom: 2px solid snow;
+}
+.register{
+    margin-top: 30px;
+   padding: 9px;
+   border-radius: 20px;
+   margin-left: 20%;
+}
+.register:hover{
+    color: #b2bec3;
+    background-color:rgb(186,85,211)
+    ;
+}
