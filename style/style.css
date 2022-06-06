@@ -1,6 +1,6 @@
 body{
     /* background-color: skyblue; */
-    background-image: url(assests/pash.jpg);
+    background-image: url('../assests/lash.jpg');
     /* background-position: center; */
     background-repeat:no-repeat;
     background-size: cover;
